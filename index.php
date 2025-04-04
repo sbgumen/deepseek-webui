@@ -1,8 +1,5 @@
 <?php
-/**
- * DeepSeek Web应用入口文件
- * 负责处理路由和请求分发
- */
+
 
 // 定义应用访问标识
 define('DEEPSEEK_ACCESS', true);
