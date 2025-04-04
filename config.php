@@ -4,6 +4,7 @@
  * 包含API密钥和端点URL等敏感信息
  */
 
+
 // 防止直接访问
 if (!defined('DEEPSEEK_ACCESS')) {
     die('Direct access not permitted');
