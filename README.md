@@ -74,6 +74,9 @@ git clone https://github.com/yourusername/deepseek-frontend-clone.git
     // 其他参数...
 ],
 ```
+[获取官网apikey](https://platform.deepseek.com/)
+
+[更便宜高效的中转api站](https://api.lzx1.top)
 
 4. 目录权限
 
